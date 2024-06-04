@@ -14,6 +14,7 @@ boolean.yes                                         = Yes
 command.audio.alreadyConnect                        = :x: 已连接一个语音频道
 command.audio.notPlaying                            = :x: 没有曲目，请播放音乐
 command.audio.sameChannel                           = :x: 请再次加入同一频道
+command.automod.slash.main                          = Settings auto moderation for trolls
 command.bot.message.sub.command.success             = :white_check_mark: 命令<args[0]> 已变更为 <args[1]>！
 command.bot.message.sub.command.title               = 命令管理
 command.bot.message.sub.evaluate.failed             = :x: **发生错误！**\nError:\n`<args[0]>`\n\nCode:\n```js\n<args[1]>```\nStacktrace```js\n<args[2]>```

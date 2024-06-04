@@ -14,6 +14,7 @@ boolean.yes                                         = はい
 command.audio.alreadyConnect                        = :x: すでに音声チャンネルに接続されています
 command.audio.notPlaying                            = :x: 音楽を再生してください
 command.audio.sameChannel                           = :x: 同じチャンネルに入ってください
+command.automod.slash.main                          = Settings auto moderation for trolls
 command.bot.message.sub.command.success             = :white_check_mark: <args[0]> コマンドを<args[1]>にしました！
 command.bot.message.sub.command.title               = コマンド管理 コマンド
 command.bot.message.sub.evaluate.failed             = :x: **エラーが発生しました！**\nError:\n`<args[0]>`\n\nCode:\n```js\n<args[1]>```\nStacktrace```js\n<args[2]>```
